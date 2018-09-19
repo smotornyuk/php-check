@@ -1,0 +1,6 @@
+{
+    "require": {
+        "psy/psysh": "^0.9.8",
+        "phpunit/phpunit": "^7.3"
+    }
+}
